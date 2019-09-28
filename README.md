@@ -5,6 +5,7 @@ Mengejar Pendidikan SIPSS 2021 - Ipda. Marde Fasma S.Kom
 - Berkas selain yang di fotokopi legalisir juga perlu dirangkap?
 - Legalisir KK dan KTP di pemerintah kecamatan atau keluraha?
 - Legalisir lebih baik berapa rangkap?
+- Alergi terhadap makanan
 
 ## Pedaftaran
 - Tanggal
