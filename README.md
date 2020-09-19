@@ -44,6 +44,15 @@ Terima kasih sebesar besarnya saya persembahkan untuk :
 - [ ] Surat Keterangan Akreditasi BAN-PT
 - [ ] PAS FOTO 3x4 3 lb, 4x6 12 lb BACKGROUND MERAH
 
+## TARGET
+- Sit up 40
+- Pull up 17
+- Push up 42
+- Shuttle run 10 m 16 detik
+- Renang 25 m 14 detik
+- Lari 2,4 km 12 menit
+
+
 ## PANDA
 - Pemeriksaan Administrasi
 - Tes Kompetensi Keahlian (tahun 2020)
