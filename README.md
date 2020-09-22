@@ -1,5 +1,9 @@
+<div align="center">
+<img src="https://cdn2.tstatic.net/jateng/foto/bank/images/topi-polisi.jpg" align="center" width="300">
+
 # Harapan
 Mengejar Pendidikan SIPSS 2021 - Ipda. Marde Fasma S.Kom :cop:
+</div>
 
 ## Special Tribute :bouquet:
 Terima kasih sebesar besarnya saya persembahkan untuk :
@@ -8,6 +12,7 @@ Terima kasih sebesar besarnya saya persembahkan untuk :
 
 ## Pertanyaan
 - Materi Tes Kompetensi Keahlian jurusan Teknik Informatika?
+- Tes Kompetensi Keahlian Panda dan Panpus berbeda?
 - Sertifikat, penghargaan dan pengalaman kerja apakah diperhitungkan juga dalam penerimaan?
 - Berkas selain yang di fotokopi legalisir juga perlu dirangkap?
 > Rangkap semua
