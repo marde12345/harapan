@@ -6,8 +6,9 @@ Terima kasih sebesar besarnya saya persembahkan untuk :
 - ***Mas Arnandha***
 - ***Mbak Nana***
 
-
 ## Pertanyaan
+- Materi Tes Kompetensi Keahlian jurusan Teknik Informatika?
+- Sertifikat, penghargaan dan pengalaman kerja apakah diperhitungkan juga dalam penerimaan?
 - Berkas selain yang di fotokopi legalisir juga perlu dirangkap?
 > Rangkap semua
 - Legalisir KK dan KTP di pemerintah kecamatan atau kelurahan?
