@@ -42,7 +42,6 @@ Terima kasih sebesar besarnya saya persembahkan untuk :
 - [ ] Fotokopi + Legalisir sertifikat akreditasi Ban-PT
 - [ ] Surat Keterangan Catatan Kepolisian
 - [ ] PAS FOTO 3x4 3 lb, 4x6 12 lb BACKGROUND MERAH
-- [ ] Fotokopi + Legalisir, Asli KTP Fasma dan orang tua
 - [ ] Surat persetujuan orang tua wali unduh web
 - [ ] Surat permohonan menjadi anggota POLRI unduh web
 - [ ] Surat Pernyataan belum pernah menikah unduh web
