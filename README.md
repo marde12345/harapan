@@ -7,8 +7,10 @@ Mengejar Pendidikan SIPSS 2021 - Ipda. Marde Fasma S.Kom :cop:
 
 ## Special Tribute :bouquet:
 Terima kasih sebesar besarnya saya persembahkan untuk :
+- ***Pak Rio Dwi***
 - ***Mas Arnandha***
 - ***Mbak Nana***
+- ***Pak Welly***
 
 ## Pertanyaan
 - Materi Tes Kompetensi Keahlian jurusan Teknik Informatika?
