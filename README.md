@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://akpol.polri.go.id/images/foto.jpg" align="center" width="300">
+<img src="https://akpol.polri.go.id/images/foto.jpg" align="center">
 
 # Harapan
 Mengejar Pendidikan SIPSS 2021 - Ipda. Marde Fasma S.Kom :cop:
